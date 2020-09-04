@@ -1,0 +1,34 @@
+
+.parking-container
+{
+  display: flex;
+  .parking-content
+  {
+    .drop-down-container
+    {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 10px;
+    margin: 20px;
+    }
+  }
+  .parking-content-2
+  {
+    
+  }
+  .parking-content-3
+  {
+    
+      
+
+  }
+  .drop-down-container
+    {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 10px;
+    margin: 20px;
+    }
+}
