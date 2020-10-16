@@ -98,4 +98,9 @@ const mapStateToProps = (state) => {
   }
 }
 
+const chngRequestNikk = () =>{
+  return(
+  )
+}
+
 export default (connect(mapStateToProps)(Login));
